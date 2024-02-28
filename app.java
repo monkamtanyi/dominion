@@ -2,4 +2,5 @@ myapp
 billionaire
 riches 
 Grace of God. 
-DevOps wizards
+DevOps wizard
+Work hard and smart
